@@ -43,6 +43,10 @@ Currently building my skills in Java, Python, SQL, and Data Structures & Algorit
 - [SQL Practice](https://github.com/lakshithapamarthi-2202/SQL-Practice)
 - [Data Analysis](https://github.com/lakshithapamarthi-2202/Data-Analysis)
 
+## 🔗 Connect With Me
+
+- [LinkedIn](YOUR-LINKEDIN-URL)
+
 ---
 
 ⭐ Thanks for visiting my profile!
