@@ -1,38 +1,48 @@
 # Hi, I'm Lakshitha 👋
 
-## About Me
+### Computer Science & Artificial Intelligence Student
 
-I'm a Computer Science and Artificial Intelligence student interested in software development and data analysis.
+I'm interested in software development, problem solving, and data analysis.  
+Currently building my skills in Java, Python, SQL, and Data Structures & Algorithms.
 
-- 💻 Learning Java, Python and DSA
-- 📚 Practicing problem solving and SQL
-- 📊 Exploring Data Analysis
-- 🚀 Building projects to improve my practical skills
-- 🎯 Looking for internship opportunities and learning experiences
-
-## Skills
+## 💻 Skills
 
 - Java
 - C
 - Python
 - SQL
-- Data Structures and Algorithms
+- Data Structures & Algorithms
 - Git & GitHub
 - Excel
 
-## Currently Learning
+## 📚 Currently Learning
 
 - Java OOP
-- Data Structures and Algorithms
+- Data Structures & Algorithms
 - Python
 - Data Analysis
-- Problem Solving
+- SQL
 
-## Projects
+## 🚀 Projects
 
-Coming soon...
+- Personal Budget Recommendation System
+- SIH Project
+- More projects coming soon...
 
-## Connect With Me
+## 🎯 Goals
 
-- LinkedIn: Add your LinkedIn profile here
-- GitHub: You're already here! 😊
+- Improve problem-solving skills
+- Build practical projects
+- Gain internship experience
+- Prepare for software and data-related roles
+
+## 📂 Practice
+
+- [Java DSA](https://github.com/lakshithapamarthi-2202/Java-DSA)
+- [Python Learning](https://github.com/lakshithapamarthi-2202/Python-Learning)
+- [SQL Practice](https://github.com/lakshithapamarthi-2202/SQL-Practice)
+- [Data Analysis](https://github.com/lakshithapamarthi-2202/Data-Analysis)
+
+---
+
+⭐ Thanks for visiting my profile!
